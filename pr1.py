@@ -1,4 +1,10 @@
+
 def sumf(a,b):
     return(a+b)
-s = sumf(5,3)
-print(s)
+
+print("enter the first number:")
+a= int(input())
+print("enter the second number:")
+b=int(input())
+s=sumf(a,b)
+print("Sum return is:",s)
