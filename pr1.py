@@ -8,3 +8,8 @@ print("enter the second number:")
 b=int(input())
 s=sumf(a,b)
 print("Sum return is:",s)
+
+import time
+print(time.ctime())
+
+print("AA")
