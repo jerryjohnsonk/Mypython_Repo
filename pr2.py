@@ -13,4 +13,6 @@ while(r=='y') :
  gen(n)
  print("Do you want to continue(y/n):")
  r = input()
+
+print("Number of elements:",n)
  
