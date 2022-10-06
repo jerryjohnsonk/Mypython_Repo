@@ -1,6 +1,7 @@
 def Largenum(L1):
     print("Code checking")
-    return 5
+    str = 'Jerry'
+    return(str)
 
 print('Enter the number of elements:')
 n=int(input())
